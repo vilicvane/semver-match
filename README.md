@@ -1,3 +1,6 @@
+[![NPM Package](https://badge.fury.io/js/semver-match.svg)](https://www.npmjs.com/package/semver-match)
+[![Build Status](https://travis-ci.org/vilic/semver-match.svg)](https://travis-ci.org/vilic/semver-match)
+
 # Semver Match
 
 A simple function that conforms npm package version matching behavior.
