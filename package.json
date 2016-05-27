@@ -1,6 +1,6 @@
 {
   "name": "semver-match",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple function that conforms npm package version matching behavior.",
   "main": "bld/index.js",
   "typings": "bld/index.d.ts",
@@ -12,7 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/vilic/semver-match.git"
   },
-  "keywords": [],
+  "keywords": [
+    "semver",
+    "match",
+    "algorithm"
+  ],
   "author": "vilicvane",
   "license": "MIT",
   "bugs": {
