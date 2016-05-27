@@ -1,0 +1,30 @@
+{
+  "name": "semver-match",
+  "version": "0.1.0",
+  "description": "A simple function that conforms npm package version matching behavior.",
+  "main": "bld/index.js",
+  "typings": "bld/index.d.ts",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilic/semver-match.git"
+  },
+  "keywords": [],
+  "author": "vilicvane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilic/semver-match/issues"
+  },
+  "homepage": "https://github.com/vilic/semver-match#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "semver": "^5.1.0"
+  }
+}
